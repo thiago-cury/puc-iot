@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "278206476234",
+    "firebase_url": "https://excontroletemperatura.firebaseio.com",
+    "project_id": "excontroletemperatura",
+    "storage_bucket": "excontroletemperatura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278206476234:android:2262e6ffba78ac70",
+        "android_client_info": {
+          "package_name": "thiagocury.eti.br.excontroletemperatura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278206476234-06a5kd6juh288m9ap3rs3nlqspeprqvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-cKP5mb9aSg-Z9SNngXCHWxZdB5BJooU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
